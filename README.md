@@ -1,4 +1,6 @@
 PollTutorial
 ============
 
-Django tutorial
+## Installation instructions
+
+..
