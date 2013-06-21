@@ -1,0 +1,4 @@
+PollTutorial
+============
+
+Django tutorial
